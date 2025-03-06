@@ -502,7 +502,7 @@
 			"dawpostdsp": 0,
 			"memab": 0,
 			"iconid": "other/smiley",
-			"aux_asn_flags": 4294915071,
+			"aux_asn_flags": 4294918143,
 			"aux1": -84.0,
 			"aux2": -84.0,
 			"aux3": -84.0,
@@ -581,7 +581,7 @@
 			"usb_src2": 0,
 			"sd_src2": 0,
 			"lr": 0,
-			"sub_asn_flags": 3,
+			"sub_asn_flags": 0,
 			"fx_asn_flags": 255,
 			"FXA": -84.0,
 			"FXB": -84.0,
@@ -593,7 +593,7 @@
 			"FXH": -84.0,
 			"inputsrc": 0,
 			"delay": 0.0,
-			"flexassignflags": 0,
+			"flexassignflags": 3072,
 			"48v": 0,
 			"polarity": 0,
 			"preampgain": 0.0,
@@ -732,7 +732,7 @@
 			"dawpostdsp": 0,
 			"memab": 0,
 			"iconid": "other/smiley",
-			"aux_asn_flags": 4294915071,
+			"aux_asn_flags": 4294918143,
 			"aux1": -84.0,
 			"aux2": -84.0,
 			"aux3": -84.0,
@@ -811,7 +811,7 @@
 			"usb_src2": 0,
 			"sd_src2": 0,
 			"lr": 0,
-			"sub_asn_flags": 3,
+			"sub_asn_flags": 0,
 			"fx_asn_flags": 255,
 			"FXA": -84.0,
 			"FXB": -84.0,
@@ -823,7 +823,7 @@
 			"FXH": -84.0,
 			"inputsrc": 0,
 			"delay": 0.0,
-			"flexassignflags": 0,
+			"flexassignflags": 3072,
 			"48v": 0,
 			"polarity": 0,
 			"preampgain": 0.0,
@@ -1980,7 +1980,7 @@
 			"digitalgain": 0.0,
 			"10db_boost": 0,
 			"gatekeysrc": 0,
-			"compkeysrc": 0,
+			"compkeysrc": 31,
 			"digsendsrc": 1,
 			"gaincomp": 0,
 			"opt": 
@@ -2210,12 +2210,12 @@
 			"digitalgain": 0.0,
 			"10db_boost": 0,
 			"gatekeysrc": 0,
-			"compkeysrc": 0,
+			"compkeysrc": 31,
 			"digsendsrc": 1,
 			"gaincomp": 0,
 			"opt": 
 			{
-				"swapcompeq": 0
+				"swapcompeq": 1
 			},
 			"filter": 
 			{
@@ -2271,7 +2271,7 @@
 			},
 			"limit": 
 			{
-				"limiteron": 0,
+				"limiteron": 1,
 				"threshold": -6.000000476837158203125
 			},
 			"linkoptions": 
@@ -2670,12 +2670,12 @@
 			"digitalgain": 0.0,
 			"10db_boost": 0,
 			"gatekeysrc": 0,
-			"compkeysrc": 0,
+			"compkeysrc": 31,
 			"digsendsrc": 1,
 			"gaincomp": 0,
 			"opt": 
 			{
-				"swapcompeq": 0
+				"swapcompeq": 1
 			},
 			"filter": 
 			{
@@ -2731,7 +2731,7 @@
 			},
 			"limit": 
 			{
-				"limiteron": 0,
+				"limiteron": 1,
 				"threshold": -6.000000476837158203125
 			},
 			"linkoptions": 
@@ -3360,12 +3360,12 @@
 			"digitalgain": 0.0,
 			"10db_boost": 0,
 			"gatekeysrc": 0,
-			"compkeysrc": 0,
+			"compkeysrc": 31,
 			"digsendsrc": 1,
 			"gaincomp": 0,
 			"opt": 
 			{
-				"swapcompeq": 0
+				"swapcompeq": 1
 			},
 			"filter": 
 			{
@@ -3421,7 +3421,7 @@
 			},
 			"limit": 
 			{
-				"limiteron": 0,
+				"limiteron": 1,
 				"threshold": -6.000000476837158203125
 			},
 			"linkoptions": 
@@ -6930,7 +6930,7 @@
 		},
 		"ch31": 
 		{
-			"username": "Ch. 31",
+			"username": "V SC",
 			"color": 0,
 			"solo": 0,
 			"volume": -84.0,
@@ -6941,7 +6941,7 @@
 			"linkmaster": 0,
 			"dawpostdsp": 0,
 			"memab": 0,
-			"iconid": "",
+			"iconid": "vocals/vocals",
 			"aux_asn_flags": 4294915071,
 			"aux1": -84.0,
 			"aux2": -84.0,
@@ -7020,7 +7020,7 @@
 			"avb_src2": 0,
 			"usb_src2": 0,
 			"sd_src2": 0,
-			"lr": 1,
+			"lr": 0,
 			"sub_asn_flags": 0,
 			"fx_asn_flags": 255,
 			"FXA": -84.0,
@@ -7031,7 +7031,7 @@
 			"FXF": -84.0,
 			"FXG": -84.0,
 			"FXH": -84.0,
-			"inputsrc": 1,
+			"inputsrc": 0,
 			"delay": 0.0,
 			"flexassignflags": 0,
 			"48v": 0,
